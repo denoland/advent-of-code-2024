@@ -19,9 +19,6 @@ offering a development pipeline we think people will love.
 We're even giving away some swag as a reward, and the chance to win some rare
 and exclusive Deno prizes! 👇️
 
-We're even giving away some swag as a reward, and the chance to win some rare
-and exclusive Deno prizes! 👇️
-
 - [Prizes](#prizes)
 - [How to submit](#how-to-submit)
 - [Ways to use Deno](#ways-to-use-deno-in-your-submissions)
