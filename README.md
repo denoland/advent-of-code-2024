@@ -57,13 +57,17 @@ guaranteed)**
 Also note that these prizes stack, as in if you complete 5 days, you will
 receive the Reindeer Deno as well as the Logo sticker. Also, these days do not
 have to be consecutive!! You can complete any 5 days by the deadline and be
-eligible for the Reindeer Deno and the Logo sticker.
+eligible for the Reindeer Deno and the Logo sticker. Finally, a day is "completed" if you receive at least one star.
 
 ### Only 3 elite level special edition stickers will be awarded!
 
 - The **first person** to complete 20 qualifying submissions with Deno and
   inform us as per the submission instructions below, will be rewarded with an
   elite level special edition sticker.
+- We will verify the first submission to complete 20 days via a private
+  leaderboard. If you have completed 20 days and want a chance at the elite
+  level special edition sticker, please let us know on social media, Discord,
+  or GitHub issues, and we’ll invite you.
 - All others who complete 20 qualifying submissions with Deno and inform us as
   per the submission instructions below will be entered into a prize draw for
   the 2 remaining elite level special edition stickers.
@@ -76,7 +80,8 @@ Be sure to follow these steps in order to get your stickers!
 
 - Share your solutions publicly on [GitHub](https://github.com) with the topic
   `aoc-2024-in-deno`
-- Have your contact details (email address) on your GitHub profile
+- Have your email address on your GitHub profile (or somewhere public) so we can
+  reach out to coordinate shipping
 - Share your GitHub repo of solutions on social media
   - _Not on social media?
     [Create an issue](https://github.com/denoland/advent-of-code-2024/issues) on
